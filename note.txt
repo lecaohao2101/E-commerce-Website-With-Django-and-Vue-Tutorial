@@ -4,3 +4,11 @@ pip install django-cors-headers
 pip install djoser
 pip install pillow
 pip install stripe
+python manage.py runserver
+
+npm install -g @vue/cli
+vue create djackets_vue
+npm install axios
+npm install bulma
+npm run serve
+
